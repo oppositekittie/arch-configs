@@ -3,3 +3,4 @@ Yes, I took multicolor from copycats and modified it too my presence. And also I
 In the future, or probably tomorrow I hope too rice freedesktop, but as of posting my config, I'm personally too lazy lmao.
 # Kitty Config
 I shouldn't really have too explain anything but adding this image. 
+![alt text](https://raw.githubusercontent.com/oppositekittie/arch-configs/main/theme.png)
